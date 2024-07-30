@@ -1,2 +1,2 @@
-# MKPITS_Dotnet_July_2024_Krutika_Chauhan_
+# MKPITS_Dotnet_July_2024_Krutika_Chauhan
 Repository For DotNet
